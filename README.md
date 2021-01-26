@@ -1,5 +1,4 @@
-[![Rohit Bulusu
-header](https://github.com/rohitbulusu/rohitbulusu/tree/main/assets/header.gif)](https://rohitbulusu.com)
+<img src="https://github.com/rohitbulusu/rohitbulusu/tree/main/assets/header.gif" width="100px">
 
 ### Hi there 👋
 
